@@ -1,2 +1,0 @@
-[console_scripts]
-allocation-study = scripts.run_tournament:main
